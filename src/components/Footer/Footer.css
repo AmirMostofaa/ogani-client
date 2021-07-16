@@ -1,0 +1,35 @@
+.footer {
+    background-color: #E5E5E5;
+}
+ul {
+    list-style-type: none;
+    margin-left: -27px;
+}
+ul li:hover {
+ cursor: pointer;
+}
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    padding: .5rem 0rem;
+    border-top: 1px solid red
+}
+
+.footer form {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer input.btn.btn-danger {
+    width: 98px !important;
+    margin-top: 10px
+}
+
+@media (max-width: 776px) {
+    .copyright {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+}

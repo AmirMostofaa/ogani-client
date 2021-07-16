@@ -1,0 +1,25 @@
+.home {
+    padding: 4rem 0rem;
+    min-height: 100vh;
+}
+.search {
+    display: flex;
+    justify-content: center;
+
+}
+form {
+    display: flex;
+}
+.products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 776px) {
+    .products {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

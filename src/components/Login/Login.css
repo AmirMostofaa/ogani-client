@@ -1,0 +1,7 @@
+.login-area {
+    height: 60vh;
+}
+.loggedUser img {
+    border-radius: 50px;
+    margin-bottom: 20px;
+}

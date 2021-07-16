@@ -1,0 +1,13 @@
+.order th.MuiTableCell-root.MuiTableCell-body img {
+    max-width: 43px;
+    padding-right: 0px;
+}
+
+.order th.MuiTableCell-root.MuiTableCell-body {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.order {
+    min-height: 65vh
+}

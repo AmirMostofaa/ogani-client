@@ -1,0 +1,19 @@
+.add-product {
+    height: 100vh;
+}
+.add-product h4 {
+    padding-bottom: 2rem;
+}
+form {
+    display: flex;
+}
+input {
+    width: 90% !important;
+}
+input[type="submit"] {
+    width: auto !important;
+    
+}
+.col-lg-6.col-md-6.col-sm-6 {
+    padding: 1rem 0rem;
+}

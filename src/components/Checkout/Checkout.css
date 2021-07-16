@@ -1,0 +1,6 @@
+.checkout {
+    padding: 2rem 0rem;
+}
+tr.myBorder.pt-2 {
+    border-top: 1px solid red;
+}

@@ -1,0 +1,34 @@
+.myHeader {
+    background-color: #E5E5E5 !important;
+    
+}
+a.nav-link img {
+    max-width: 50px;
+}
+
+.navbar-nav a {
+    color: #3C3C3C !important;
+    font-weight: 600;
+    margin-right: 15px;
+    text-decoration: none;
+}
+.navbar-nav a:hover {
+    color: black !important;
+}
+
+
+.myHeader button.btn.btn-danger a {
+    color: white !important;
+    
+}
+/* button.btn.btn-danger {
+    background-color: #7FAD39;
+} */
+
+.myHeader button.btn.btn-danger {
+    padding: 5px 13px  5px 25px !important;
+}
+a.nav-link img {
+    border-radius: 50px;
+    height: 39px;
+}
