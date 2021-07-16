@@ -3,9 +3,6 @@ import { Col, Container, Row } from 'react-bootstrap';
 import logo from '../../logo.webp';
 import './Footer.css';
 import fImage from '../../images/pay.png';
-import fb from '../../images/face.png';
-import insta from '../../images/insta.png';
-import twitter from '../../images/tw.png';
 
 
 
